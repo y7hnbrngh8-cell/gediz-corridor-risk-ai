@@ -1,0 +1,8 @@
+date,region,spi12,spi24,cdi
+2024-03,Ege,-0.8,-1.1,watch
+2024-04,Ege,-1.1,-1.4,watch
+2024-05,Ege,-1.4,-1.8,warning
+2024-06,Ege,-1.7,-2.1,warning
+2024-07,Ege,-1.9,-2.3,alert
+2024-08,Ege,-1.6,-2.0,warning
+2024-09,Ege,-1.2,-1.7,watch
